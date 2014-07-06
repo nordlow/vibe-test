@@ -1,0 +1,10 @@
+{
+	"name": "vibtest",
+	"description": "A simple vibe.d server application.",
+	"copyright": "Copyright © 2014, per",
+	"authors": ["per"],
+	"dependencies": {
+		"vibe-d": "~master"
+	},
+	"versions": ["VibeDefaultMain"]
+}
